@@ -1,4 +1,4 @@
-# Hi There! , I'm Cassian
+# Hi There!, I'm Cassian
 
 I'm currently pursuing a Bachelor's degree in Electronics and Communication Engineering. I enjoy understanding how systems work, from circuits to code, and I'm building my skills through hands-on projects.
 
