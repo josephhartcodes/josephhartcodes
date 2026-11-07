@@ -28,5 +28,6 @@ To build a strong foundation in electronics and software, and to work on meaning
 ## Contact
 
 Email:- syedyousuf.ksa.in@gmail.com
+
 *Always learning. Always building.*
 
